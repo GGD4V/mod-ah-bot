@@ -49,7 +49,7 @@ AuctionHouseBot.UseBuyPriceForSeller = 0
 AuctionHouseBot.UseBuyPriceForBuyer = 0
 AuctionHouseBot.Account = 0
 AuctionHouseBot.GUID = 0
-AuctionHouseBot.ItemsPerCycle = 200
+AuctionHouseBot.ItemsPerCycle = 5000
 
 ###############################################################################
 # AUCTION HOUSE BOT FILTERS PART 1
