@@ -43,8 +43,8 @@
 
 AuctionHouseBot.DEBUG = 0
 AuctionHouseBot.DEBUG_FILTERS = 0
-AuctionHouseBot.EnableSeller = 0
-AuctionHouseBot.EnableBuyer = 0
+AuctionHouseBot.EnableSeller = 1
+AuctionHouseBot.EnableBuyer = 1
 AuctionHouseBot.UseBuyPriceForSeller = 0
 AuctionHouseBot.UseBuyPriceForBuyer = 0
 AuctionHouseBot.Account = 0
